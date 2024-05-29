@@ -1,3 +1,4 @@
+//O codigo segue sem valores de entrada por conta que o editor online não aceita o "prompt"
 const vitorias = 44;
 const derrotas = 21;
 let saldo = vitorias - derrotas;
