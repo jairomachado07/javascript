@@ -1,7 +1,5 @@
-const prompt = require('prompt-sync')({ sigint: true });
-
-const vitorias = parseInt(prompt('Digite a quantidade de vitorias: '));
-const derrotas = parseInt(prompt('Digite a quantidade de derrotas: '));
+const vitorias = 44;
+const derrotas = 21;
 let saldo = vitorias - derrotas;
 
 let nivel = "";
