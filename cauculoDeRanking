@@ -1,10 +1,11 @@
 //O codigo segue sem valores de entrada por conta que o editor online não aceita o "prompt"
+//mostrando as variaveis e constantes
 const vitorias = 44;
 const derrotas = 21;
 let saldo = vitorias - derrotas;
-
+//mostrando o resultado
 resultado(saldo);
-
+//criando a função
 function resultado(saldo){
   let nivel = "";
 
