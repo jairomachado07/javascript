@@ -22,4 +22,4 @@ if (saldo <= 10) {
   nivel = "Imortal";
 }
 
-console.log(`O Herói tem de saldo de + saldo + está no nível de + nivel`);
+console.log(`O Herói tem um saldo de ${saldo} e está no nível ${nivel}.`);
